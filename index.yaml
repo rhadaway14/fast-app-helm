@@ -9,6 +9,6 @@ entries:
     name: fastapi-app
     type: application
     urls:
-    - https://github.com/rhadaway14/fast-app-helm.git/fastapi-app-0.1.0.tgz
+  - https://rhadaway14.github.io/fast-app-helm/fastapi-app-0.1.0.tgz
     version: 0.1.0
 generated: "2025-03-31T15:44:21.4627444-06:00"
