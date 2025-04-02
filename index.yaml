@@ -3,12 +3,12 @@ entries:
   fastapi-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-01T18:14:16.8239876-06:00"
+    created: "2025-04-01T18:29:00.441105-06:00"
     description: A Helm chart for Kubernetes
-    digest: 6f0d295f95b8f3c475a8652ffa8334db82b7753629ae730c975ccdd24cd9abee
+    digest: 3df97321ca4ba7f4c0ccd14ebacd270363a89f350ca869b7bca6e7b16eeb3055
     name: fastapi-app
     type: application
     urls:
     - fastapi-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-01T18:14:16.822988-06:00"
+generated: "2025-04-01T18:29:00.4401042-06:00"
